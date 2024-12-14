@@ -1,0 +1,4 @@
+fsm_automatic.c:13:6:autoMODE1_task	8	static
+fsm_automatic.c:55:6:autoMODE2_task	8	static
+fsm_automatic.c:97:6:autoMODE3_task	8	static
+fsm_automatic.c:132:6:autoMODE4_task	8	static

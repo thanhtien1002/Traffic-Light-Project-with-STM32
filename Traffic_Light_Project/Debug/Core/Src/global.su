@@ -1,0 +1,3 @@
+global.c:58:6:initWaitingTime	4	static
+global.c:64:6:time_traffic_base	4	static
+global.c:70:6:initVar	4	static
