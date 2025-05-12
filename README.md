@@ -47,11 +47,8 @@ Traffic_Light_Controller/
 - STM32CubeIDE
 - USB to UART adapter (e.g., ST-Link V2)
 
-### Setup Instructions
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/Traffic_Light_Controller.git
-   cd Traffic_Light_Controller
+## Demo Project
+[![Traffic Light Controller Demo](https://youtu.be/FJ5-jhBjZf4)](https://youtu.be/FJ5-jhBjZf4)
 
 ## 📑 Usage
 - Press the button to switch traffic light modes.
