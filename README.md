@@ -48,7 +48,7 @@ Traffic_Light_Controller/
 - USB to UART adapter (e.g., ST-Link V2)
 
 ## Demo Project
-[![Traffic Light Controller Demo](https://youtu.be/FJ5-jhBjZf4)](https://youtu.be/FJ5-jhBjZf4)
+[![Traffic Light Controller Demo](https://youtu.be/FJ5-jhBjZf4.jpg)](https://youtu.be/FJ5-jhBjZf4)
 
 ## 📑 Usage
 - Press the button to switch traffic light modes.
