@@ -1,8 +1,7 @@
 # Traffic Light Controller Project 🚦
 
 ## 📚 Project Overview
-This project implements a traffic light controller system using the STM32F103RB microcontroller, designed to manage a 4-way intersection. It includes features such as GPIO control for buttons and LEDs, state machine implementation, task scheduling, and I2C communication for 16x2 LCD display. The controller efficiently manages traffic flow, ensuring safe and smooth vehicle movement while providing information display.
-
+This project implements a traffic light controller system using the STM32F103RB microcontroller, designed to manage a 4-way intersection. It includes features such as GPIO control for buttons and LEDs, state machine implementation, task scheduling, and I2C communication for 16x2 LCD display
 ## ✨ Key Features
 - GPIO configuration for buttons and LED control
 - State machine-based traffic light logic
