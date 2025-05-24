@@ -12,6 +12,7 @@ This project implements a traffic light controller system using the STM32F103RB 
 ## 🛠️ Technologies Used
 - STM32F103RB (ARM Cortex-M3)
 - C/C++ for firmware development
+- Button and LED (Red - Green - Blue)
 - I2C protocol for LCD communication
 - State machine for traffic light logic
 
